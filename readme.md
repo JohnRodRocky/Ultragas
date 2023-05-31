@@ -1,1 +1,0 @@
-O codigo apresentados nos scripts já está responsivo para a versão mobile e desktop 
